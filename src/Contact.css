@@ -1,0 +1,22 @@
+.contactContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 50px;
+  }
+  
+  .contact {
+    margin-top: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+.emailLink {
+    cursor: pointer;
+    text-decoration: underline;
+    display: inline;
+  }
