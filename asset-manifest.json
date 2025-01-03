@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b50446ec.css",
-    "main.js": "/static/js/main.071b6879.js",
+    "main.css": "/static/css/main.68dadf05.css",
+    "main.js": "/static/js/main.f01ff8f5.js",
     "static/media/NonstopDemo.mov": "/static/media/NonstopDemo.d77e030b9c2986cd2c8e.mov",
     "static/media/LittleLemonDemo.mov": "/static/media/LittleLemonDemo.0fa202692b39476157be.mov",
     "static/media/Trivia-Time.mov": "/static/media/Trivia-Time.dc262249997aa19b903e.mov",
@@ -20,11 +20,11 @@
     "static/media/typescript.png": "/static/media/typescript.af108db04a54d784da9b.png",
     "static/media/demo.png": "/static/media/demo.fadaf97f0f40625b5db9.png",
     "index.html": "/index.html",
-    "main.b50446ec.css.map": "/static/css/main.b50446ec.css.map",
-    "main.071b6879.js.map": "/static/js/main.071b6879.js.map"
+    "main.68dadf05.css.map": "/static/css/main.68dadf05.css.map",
+    "main.f01ff8f5.js.map": "/static/js/main.f01ff8f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b50446ec.css",
-    "static/js/main.071b6879.js"
+    "static/css/main.68dadf05.css",
+    "static/js/main.f01ff8f5.js"
   ]
 }
