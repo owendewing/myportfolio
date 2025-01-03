@@ -187,8 +187,8 @@ const Projects = () => {
         section where users can access their older posts sorted by date."
           projectImage={nonstop}
           projectImageAlt="Nonstop-picture"
-          githubs={github}
-          openGithubFunction={handleNonstopGithub}
+          // githubs={github}
+          // openGithubFunction={handleNonstopGithub}
           demos={nonstopVideo}
         ></ProjectDiv>
         <ProjectDiv

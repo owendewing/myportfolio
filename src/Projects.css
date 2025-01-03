@@ -234,14 +234,14 @@
         max-width: 600px;
     }
     .project-container {
-        width: 800px;
+        width: 780px;
         margin-left: -200px;
     }
   }
 
   @media screen and (max-width: 800px) {
     .project-container {
-        width: 500px;
+        width: 450px;
         margin-left: -50px;
     }
     .icon {

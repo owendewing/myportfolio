@@ -112,6 +112,7 @@
     }
     .paragraph-container{
         border: 30px solid #061627;
+        min-width: 300px;
     }
     .personal-paragraph {
         font-size: 25px;
