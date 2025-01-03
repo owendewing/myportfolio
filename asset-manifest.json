@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b50446ec.css",
+    "main.js": "/static/js/main.071b6879.js",
+    "static/media/NonstopDemo.mov": "/static/media/NonstopDemo.d77e030b9c2986cd2c8e.mov",
+    "static/media/LittleLemonDemo.mov": "/static/media/LittleLemonDemo.0fa202692b39476157be.mov",
+    "static/media/Trivia-Time.mov": "/static/media/Trivia-Time.dc262249997aa19b903e.mov",
+    "static/media/IMG_1916.JPG": "/static/media/IMG_1916.92f02ff6fcc29321a4d5.JPG",
+    "static/media/littleLemon.png": "/static/media/littleLemon.947a365ceed331efaccf.png",
+    "static/media/Portfolio.png": "/static/media/Portfolio.15f2d69e400f7d982a18.png",
+    "static/media/Nonstop.PNG": "/static/media/Nonstop.22a67fc42b9586177820.PNG",
+    "static/media/triviaTime.png": "/static/media/triviaTime.3e4420f175379cb5bf95.png",
+    "static/media/HTML.png": "/static/media/HTML.4a71b4f710e1861c30bb.png",
+    "static/media/Css.png": "/static/media/Css.615b113ea8f6fe4ddbdf.png",
+    "static/media/ReactNative.png": "/static/media/ReactNative.af18714381afd98d01d6.png",
+    "static/media/Swift.png": "/static/media/Swift.d0cf8dd3a99e6de3edc6.png",
+    "static/media/spotify.png": "/static/media/spotify.a2c4bfa7a2d71dcdc039.png",
+    "static/media/Javascript.png": "/static/media/Javascript.3ade557547ee3603cbf9.png",
+    "static/media/firebase.png": "/static/media/firebase.eb0f694b0397db6b58c3.png",
+    "static/media/typescript.png": "/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/demo.png": "/static/media/demo.fadaf97f0f40625b5db9.png",
+    "index.html": "/index.html",
+    "main.b50446ec.css.map": "/static/css/main.b50446ec.css.map",
+    "main.071b6879.js.map": "/static/js/main.071b6879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50446ec.css",
+    "static/js/main.071b6879.js"
+  ]
+}
