@@ -9,8 +9,8 @@ const Contact = () => {
   return (
     <div className="contactContainer">
       <div className="contact">
-        <h1>Contact Me</h1>
-        <h2>
+        <h1 className="contactMe">Contact Me</h1>
+        <h2 className="contactInfo">
           Please contact me directly through{" "}
           <span onClick={handleEmail} className="emailLink">
             owendewing7@gmail.com

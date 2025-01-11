@@ -1,8 +1,8 @@
 .container {
-    padding-bottom: 30px;
-    width: calc(50% - 15px);
-    height: 100%;
+    width: 100%;
+    max-width: 780px;
     min-width: 350px;
+    padding: 0 15px;
 }
 
 .projects-container {
@@ -24,6 +24,7 @@
     gap: 30px;
     max-width: 2000px;
     padding: 20px;
+    margin: 0 auto;
 }
 
 .project-container:hover {
@@ -210,6 +211,7 @@
 
 .project-button-text {
     font-size: 20px;
+    color: black;
 }
 
 .overlay-dim {
@@ -234,24 +236,86 @@
         max-width: 600px;
     }
     .project-container {
-        width: 780px;
-        margin-left: -200px;
+        width: 100%;
+    }
+    .project-row {
+        gap: 8px;
     }
   }
 
   @media screen and (max-width: 800px) {
     .project-container {
-        width: 450px;
-        margin-left: -50px;
+        width: 100%;
     }
     .icon {
         width: 30px;
     }
-    
     .project-button-text {
         font-size: 18px;
     }
     .buttons-container {
         gap: 15px;
+    }
+    .project-row {
+        gap: 8px;
+    }
+  }
+
+  @media screen and (max-width: 400px) {
+    .project-container {
+        width: 112%;
+        height: 300px;
+        margin-left: -20px;
+    }
+    .project-button-text {
+        font-size: 18px;
+    }
+    .buttons-container {
+        gap: 15px;
+    }
+    .projects-title {
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    .project-name {
+        font-size: 20px;
+    }
+    .icon {
+        width: 20px;
+    }
+    .project-button-text {
+        font-size: 12px;
+    }
+    .buttons-container {
+        gap: 10px;
+        margin-top: 10px;
+    }
+    .project-tech {
+        font-size: 12px;
+    }
+    .project-description {
+        font-size: 12px;
+    }
+    .project-tech-logos {
+        margin-left: -10px;
+        gap: 12px;
+    }
+    .project-images {
+        width: 20px;
+        height: 20px;
+    }
+    .projects-container {
+        padding: 0px;
+    }
+    .project-button-text {
+        font-size: 15px;
+    }
+    .project-demo-button, .project-github-button {
+        padding: 8px;
+        gap: 5px;
+        border-radius: 16px;
+    }
+    .project-row {
+        gap: 8px;
     }
   }

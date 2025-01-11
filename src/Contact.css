@@ -20,3 +20,16 @@
     text-decoration: underline;
     display: inline;
   }
+
+@media screen and (max-width: 900px) {
+  .contactMe{
+    font-size: 20px;
+  }
+  .contactInfo{
+    font-size: 14px;
+  }
+  .contactContainer {
+    padding: 30px;
+    margin-top: -35px;
+  }
+}

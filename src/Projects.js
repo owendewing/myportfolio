@@ -200,7 +200,7 @@ const Projects = () => {
             { icon: html, name: "html-logo" },
           ]}
           description="Little Lemon is a front-end web app created with ReactJS, CSS, and HTML. It was the capstone project from the Meta Front-End Development 
-        Certification. This web app permits users to make a reservation at the Little Lemon Italian restuarant. The reservation feature includes selecting a date,
+        Certification. This web app permits users to make a reservation at the Little Lemon Italian restaurant. The reservation feature includes selecting a date,
         a time (based on the date), a group of people, and an occasion."
           projectImage={littleLemon}
           projectImageAlt="Little-Lemon-picture"
@@ -214,7 +214,7 @@ const Projects = () => {
             { icon: swift, name: "swift-logo" },
             { icon: firebase, name: "firebase-logo" },
           ]}
-          description="Trivia Time is triva-based app created with Swift. Players can create an account and play a trivia game consisting of 10 questions from random 
+          description="Trivia Time is trivia-based app created with Swift. Players can create an account and play a trivia game consisting of 10 questions from random 
         genres. Players' scores are based on a combination of the amount of questions they answered correctly with how fast they complete the 10 questions. Players' scores
         are then placed on a leaderboard."
           projectImage={triviaTime}

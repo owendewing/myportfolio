@@ -1,3 +1,7 @@
+.gradient {
+    background: linear-gradient(0deg, #02362a, #0227066d);
+}
+
 .header {
     border: solid;
     border-width: 6px;
@@ -34,7 +38,7 @@
 
 .paragraph-container {
     display: flex;
-    max-width: 550px;
+    max-width: 650px;
     background-color: #061627;
     border-radius: 30px;
     border: 48px solid #061627;
@@ -103,20 +107,60 @@
 }
 
 .github-text, .linkedin-text {
-    font-size: 20px
+    font-size: 20px;
+    color: black;
 }
 
 @media screen and (max-width: 1145px) {
     .personal-image{
-        width: 300px;
+        width: 275px;
     }
     .paragraph-container{
         border: 30px solid #061627;
         min-width: 300px;
     }
     .personal-paragraph {
-        font-size: 25px;
+        font-size: 20px;
         word-spacing: 5px;
+    }
+
+}
+@media screen and (max-width: 400px) {
+    .home-container {
+        padding-bottom: 130px;
+        padding-top: 130px;
+    }
+    .personal-image{
+        width: 170px;
+    }
+    .paragraph-container{
+        border: 18px solid #061627;
+        min-width: 220px;
+        min-height: 155px;
+    }
+    .personal-paragraph {
+        font-size: 12px;
+        word-spacing: 2px;
+    }
+    .github-photo, .linkedin-photo {
+        width: 20px;
+    }
+    
+    .github-text, .linkedin-text {
+        font-size: 10px;
+    }
+
+    .github-items, .linkedin-items {
+        gap: 5px;
+        padding: 5px;
+    }
+
+    .github-button, .linkedin-button {
+        border-radius: 12px;
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.15);
+    }
+    .external-links {
+        gap: 18px;
     }
 
 }
