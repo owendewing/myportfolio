@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.21287f4c.css",
-    "main.js": "/static/js/main.3dd6322f.js",
+    "main.css": "/static/css/main.3cfb6aaf.css",
+    "main.js": "/static/js/main.aec50730.js",
     "static/media/NonstopDemo.mov": "/static/media/NonstopDemo.d77e030b9c2986cd2c8e.mov",
     "static/media/LittleLemonDemo.mov": "/static/media/LittleLemonDemo.0fa202692b39476157be.mov",
     "static/media/Trivia-Time.mov": "/static/media/Trivia-Time.dc262249997aa19b903e.mov",
     "static/media/IMG_1916.JPG": "/static/media/IMG_1916.92f02ff6fcc29321a4d5.JPG",
     "static/media/littleLemon.png": "/static/media/littleLemon.947a365ceed331efaccf.png",
-    "static/media/Portfolio.png": "/static/media/Portfolio.15f2d69e400f7d982a18.png",
+    "static/media/Portfolio.png": "/static/media/Portfolio.e7db6913d19e330cd9e2.png",
     "static/media/Nonstop.PNG": "/static/media/Nonstop.22a67fc42b9586177820.PNG",
     "static/media/triviaTime.png": "/static/media/triviaTime.3e4420f175379cb5bf95.png",
     "static/media/HTML.png": "/static/media/HTML.4a71b4f710e1861c30bb.png",
@@ -20,11 +20,11 @@
     "static/media/typescript.png": "/static/media/typescript.af108db04a54d784da9b.png",
     "static/media/demo.png": "/static/media/demo.fadaf97f0f40625b5db9.png",
     "index.html": "/index.html",
-    "main.21287f4c.css.map": "/static/css/main.21287f4c.css.map",
-    "main.3dd6322f.js.map": "/static/js/main.3dd6322f.js.map"
+    "main.3cfb6aaf.css.map": "/static/css/main.3cfb6aaf.css.map",
+    "main.aec50730.js.map": "/static/js/main.aec50730.js.map"
   },
   "entrypoints": [
-    "static/css/main.21287f4c.css",
-    "static/js/main.3dd6322f.js"
+    "static/css/main.3cfb6aaf.css",
+    "static/js/main.aec50730.js"
   ]
 }
