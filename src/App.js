@@ -25,7 +25,9 @@ const Home = () => {
           <h1 className="personal-paragraph">
             Hello, my name is Owen Dewing. I'm an honors student at Loyola
             Marymount University, graduating in May 2025 with a Bachelor of
-            Science in Computer Science and a minor in Data Science.
+            Science in Computer Science and a minor in Data Science. I am
+            pursuing my Master's Degree in Computer Science through Loyola
+            Marymount University's 4+1 Program.
             {/* With a
             strong interest in UI/UX design, I aspire to be a
             front-end/full-stack developer. */}
