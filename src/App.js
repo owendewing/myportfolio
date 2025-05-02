@@ -25,9 +25,10 @@ const Home = () => {
           <h1 className="personal-paragraph">
             Hello, my name is Owen Dewing. I'm an honors student at Loyola
             Marymount University, graduating in May 2025 with a Bachelor of
-            Science in Computer Science and a minor in Data Science. With a
+            Science in Computer Science and a minor in Data Science.
+            {/* With a
             strong interest in UI/UX design, I aspire to be a
-            front-end/full-stack developer.
+            front-end/full-stack developer. */}
           </h1>
         </div>
         <img src={photo} alt="personal" className="personal-image" />
