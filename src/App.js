@@ -1,7 +1,8 @@
 import Projects from "./Projects";
 import Contact from "./Contact";
+import Skills from "./Skills";
 import "./App.css";
-import photo from "./assets/IMG_1916.JPG";
+import photo from "./assets/profile-screenshot.png";
 import linkedin from "./assets/linkedin.png";
 import github from "./assets/github.png";
 
@@ -16,11 +17,18 @@ const handleResume = () => {
 const Home = () => {
   return (
     <div>
-      <div className="header"></div>
+      <div className="header">
+        <nav className="navbar">
+          <a href="#about" className="nav-item">About Me</a>
+          <a href="#projects" className="nav-item">Projects</a>
+          <a href="#skills" className="nav-item">Skills</a>
+          <a href="#contact" className="nav-item">Contact Me</a>
+        </nav>
+      </div>
       {/* <div className="text-container">
         <h1 className="welcome-text">Welcome</h1>
       </div> */}
-      <div className="home-container">
+      <div id="about" className="home-container">
         <div className="paragraph-container">
           <h1 className="personal-paragraph">
             Hello, my name is Owen Dewing. I'm an honors student at Loyola
@@ -62,6 +70,7 @@ function App() {
     <div className="gradient">
       <Home></Home>
       <Projects></Projects>
+      <Skills></Skills>
       <Contact></Contact>
     </div>
   );

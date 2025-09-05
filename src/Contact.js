@@ -7,7 +7,7 @@ const handleEmail = () => {
 
 const Contact = () => {
   return (
-    <div className="contactContainer">
+    <div id="contact" className="contactContainer">
       <div className="contact">
         <h1 className="contactMe">Contact Me</h1>
         <h2 className="contactInfo">
