@@ -1,30 +1,45 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8a85176.css",
-    "main.js": "/static/js/main.aec50730.js",
+    "main.css": "/static/css/main.ee4d8259.css",
+    "main.js": "/static/js/main.8c79e0bd.js",
     "static/media/NonstopDemo.mov": "/static/media/NonstopDemo.d77e030b9c2986cd2c8e.mov",
     "static/media/LittleLemonDemo.mov": "/static/media/LittleLemonDemo.0fa202692b39476157be.mov",
     "static/media/Trivia-Time.mov": "/static/media/Trivia-Time.dc262249997aa19b903e.mov",
-    "static/media/IMG_1916.JPG": "/static/media/IMG_1916.92f02ff6fcc29321a4d5.JPG",
+    "static/media/profile-screenshot.png": "/static/media/profile-screenshot.a5c8c042b854322e8527.png",
     "static/media/littleLemon.png": "/static/media/littleLemon.947a365ceed331efaccf.png",
+    "static/media/student-loan-ai.png": "/static/media/student-loan-ai.3af1006200aef0a8d752.png",
     "static/media/Portfolio.png": "/static/media/Portfolio.e7db6913d19e330cd9e2.png",
+    "static/media/social-media-wellness.jpg": "/static/media/social-media-wellness.235c74d6aa885d8d956f.jpg",
     "static/media/Nonstop.PNG": "/static/media/Nonstop.22a67fc42b9586177820.PNG",
+    "static/media/movie-genre-poster.png": "/static/media/movie-genre-poster.8dd2f89ab159473184a5.png",
+    "static/media/musicmate-ai.png": "/static/media/musicmate-ai.d09257ee1b57c9c8d9fe.png",
     "static/media/triviaTime.png": "/static/media/triviaTime.3e4420f175379cb5bf95.png",
+    "static/media/vscode.png": "/static/media/vscode.8e88067c6a37b72b7b12.png",
+    "static/media/java.png": "/static/media/java.c4e3d087e2fb18fe505e.png",
     "static/media/HTML.png": "/static/media/HTML.4a71b4f710e1861c30bb.png",
+    "static/media/sql.png": "/static/media/sql.7f7045d239b1d173a582.png",
     "static/media/Css.png": "/static/media/Css.615b113ea8f6fe4ddbdf.png",
+    "static/media/react-native-new.webp": "/static/media/react-native-new.b875671550213a56fbd5.webp",
     "static/media/ReactNative.png": "/static/media/ReactNative.af18714381afd98d01d6.png",
+    "static/media/mysql.png": "/static/media/mysql.6e42b2a035b28f240021.png",
+    "static/media/R.png": "/static/media/R.266195b079fa57483cba.png",
+    "static/media/langsmith.png": "/static/media/langsmith.7e5fd11a08969b15da32.png",
     "static/media/Swift.png": "/static/media/Swift.d0cf8dd3a99e6de3edc6.png",
     "static/media/spotify.png": "/static/media/spotify.a2c4bfa7a2d71dcdc039.png",
     "static/media/Javascript.png": "/static/media/Javascript.3ade557547ee3603cbf9.png",
     "static/media/firebase.png": "/static/media/firebase.eb0f694b0397db6b58c3.png",
+    "static/media/python.png": "/static/media/python.003220f38009e046bb04.png",
     "static/media/typescript.png": "/static/media/typescript.af108db04a54d784da9b.png",
     "static/media/demo.png": "/static/media/demo.fadaf97f0f40625b5db9.png",
+    "static/media/react-new.svg": "/static/media/react-new.7c8375868df8c536ab4f2d4078519904.svg",
     "index.html": "/index.html",
-    "main.d8a85176.css.map": "/static/css/main.d8a85176.css.map",
-    "main.aec50730.js.map": "/static/js/main.aec50730.js.map"
+    "static/media/bootstrap.svg": "/static/media/bootstrap.338c3c54af19a03e903a644e998b5240.svg",
+    "static/media/git.svg": "/static/media/git.45ffb8cc77681eed294253a776fe6c37.svg",
+    "main.ee4d8259.css.map": "/static/css/main.ee4d8259.css.map",
+    "main.8c79e0bd.js.map": "/static/js/main.8c79e0bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8a85176.css",
-    "static/js/main.aec50730.js"
+    "static/css/main.ee4d8259.css",
+    "static/js/main.8c79e0bd.js"
   ]
 }
